@@ -1,8 +1,8 @@
-name = "newsroom"
+name = "Voice To People"
 license = "MIT"
 licenselink = "https://github.com/onweru/newsroom/blob/master/LICENSE.md"
 description = "A simple open source theme for publishing multi-purpose content"
-homepage = "https://github.com/onweru/newsroom"
+homepage = "https://github.com/vishwasunil/voice-to-people"
 demosite = "https://rooms.netlify.app/"
 tags = [
   "blog",
@@ -26,4 +26,4 @@ min_version = "0.146.0"
 
 [author]
 name = "weru"
-homepage = "https://github.com/onweru"
+homepage = "https://github.com/vishwasunil"
