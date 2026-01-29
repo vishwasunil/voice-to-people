@@ -1,0 +1,18 @@
+baseURL = "https://vishwasunil.github.io/voice-to-people/"
+languageCode = "en-us"
+title = "Voice to People"
+theme = "theme.toml"
+[params]
+    description = "India’s high-leverage independent news platform. Historical truths and forgotten narratives."
+    author = "Vishwas Sunil"
+    logo = "images/logo.png"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "History"
+    url = "/categories/history"
+    weight = 2
