@@ -8,7 +8,7 @@ relativeURLs = true
     description = "India’s high-leverage independent news platform. Historical truths and forgotten narratives."
     author = "Vishwas Sunil"
     logo = "images/logo.png"
-
+    logo = "static/images/icons/back.svg"
 [menu]
   [[menu.main]]
     name = "Home"
@@ -17,4 +17,4 @@ relativeURLs = true
   [[menu.main]]
     name = "History"
     url = "/categories/history"
-    weight = 2
+    weight = 3
