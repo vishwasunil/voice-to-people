@@ -1,4 +1,4 @@
-# VoiceToPeople
+# Voice To People
 
 India's high-leverage independent news platform. Delivering historical truths and forgotten narratives with a minimalist, high-speed interface. https://vishwasunil.github.io/voice-to-people/).
 
