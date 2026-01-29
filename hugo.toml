@@ -7,7 +7,7 @@ relativeURLs = true
 [params]
     description = "India’s high-leverage independent news platform. Historical truths and forgotten narratives."
     author = "Vishwas Sunil"
-    logo = "images/logo.png"
+    #logo = "images/logo.png"
     logo = "static/images/icons/back.svg"
 [menu]
   [[menu.main]]
