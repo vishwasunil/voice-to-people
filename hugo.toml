@@ -1,7 +1,7 @@
+disableKinds = ["taxonomy", "term"]
 baseURL = "https://vishwasunil.github.io/voice-to-people/"
 languageCode = "en-us"
 title = "Voice to People"
-theme = ""
 [params]
     description = "India’s high-leverage independent news platform. Historical truths and forgotten narratives."
     author = "Vishwas Sunil"
